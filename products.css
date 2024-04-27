@@ -1,0 +1,19 @@
+.products-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.product-item {
+    text-align: center;
+    margin: 20px;
+}
+
+.product-image {
+    width: 200px; /* Adjust image width as needed */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.product-name {
+    margin-top: 10px;
+}

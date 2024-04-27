@@ -1,0 +1,36 @@
+.fruits-container {
+    text-align: center;
+}
+
+.fruits-text {
+    font-size: 20px;
+    color: green;
+}
+
+.fruits-item {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.fruits-image {
+    width: 200px;
+    height: 200px;
+}
+
+.fruits-details {
+    margin-top: 5px;
+}
+
+.add-to-cart-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.add-to-cart-button:hover {
+    background-color: #45a049;
+}
+

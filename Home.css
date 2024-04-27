@@ -1,0 +1,15 @@
+/* Home.css */
+.home-container {
+    width: 100%;
+    height: auto;
+    max-width:  20000px;;
+    max-height: 30000px; /* Ensure the container doesn't exceed the viewport width */
+    overflow: hidden; /* Hide any overflowing content */
+  }
+  
+  .full-width-image {
+    width: 100%;
+    display: block; /* Remove any default inline styling */
+    max-width: 100%; /* Ensure the image doesn't exceed its natural size */
+  }
+  
